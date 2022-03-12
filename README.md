@@ -6,9 +6,7 @@
 - 🥅 2022 Goals: Learn more about web development & new languages
 - ⚡ Fun fact: I love to draw, snowboard and hike!
 
-### 🛠 Languages and Tools:
-
-## 💻 Technology
+## 💻 Languages and Tools
 
 ### Frontend:
 
