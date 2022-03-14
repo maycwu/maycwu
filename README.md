@@ -10,8 +10,8 @@
 
 ### Frontend:
 
-Javascript, HTML, CSS, Bootstrap, React, Redux, Figma
+Javascript, HTML, CSS, React, Redux, Figma
 
 ### Backend:
 
-Node.js, PostgreSQL/ MySQL, Sequelize, Express.js, Firebase
+Node.js, PostgreSQL/ MySQL, Sequelize, Express.js
