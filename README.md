@@ -10,7 +10,7 @@
 
 ### Frontend:
 
-Javascript, HTML, CSS, React, Redux, Figma
+Javascript, HTML, CSS, React, Redux, Bootstrap
 
 ### Backend:
 
