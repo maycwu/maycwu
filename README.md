@@ -5,17 +5,17 @@
 
 - 🌱 I’m currently learning data structures and algorithms 
 - 🥅 2022 Goals: Learn more about web development & code fun projects! 
-- ⚡ Fun fact: I love to draw, snowboard, exercise and hike!
+- ⚡ Fun facts: I love to draw, snowboard, exercise and hike!
 
 ## 💻 Languages and Tools
 
 ### Frontend:
 
-Javascript, HTML, CSS, React, React Hooks, Redux, Bootstrap
+Javascript, HTML, CSS, React, React Hooks, Redux, Bootstrap, MaterialUI
 
 ### Backend:
 
-Node.js, PostgreSQL/MySQL, Sequelize, Express.js
+Node.js, PostgreSQL, Sequelize, Express.js
 
 ### Others
-Firebase, Chart.js
+Firebase, Chart.js, Heroku
