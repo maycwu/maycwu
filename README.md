@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning: data structures, algorithms and front end frameworks.
 
-- 👨‍💻 All of my projects are available at: [https://may-wu.netlify.app/](https://may-wu.netlify.app/)
+- 👨‍💻 All of my projects are available at: **[https://may-wu.netlify.app/](https://may-wu.netlify.app/)**
 
 - 📫 How to reach me: **maychangwu@gmail.com**
 
