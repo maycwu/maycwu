@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning: data structures, algorithms and front end frameworks.
 
-- 👨‍💻 All of my projects are available at [https://may-wu.netlify.app/](https://may-wu.netlify.app/)
+- 👨‍💻 All of my projects are available at: [https://may-wu.netlify.app/](https://may-wu.netlify.app/)
 
-- 📫 How to reach me **maychangwu@gmail.com**
+- 📫 How to reach me: **maychangwu@gmail.com**
 
 - ⚡ Fun facts: I lived in South America for 10 years before moving back to the US. I also love to draw, snowboard, exercise and hike!
 </p>
