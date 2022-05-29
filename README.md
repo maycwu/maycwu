@@ -29,7 +29,3 @@ Node.js, PostgreSQL, Sequelize, Express.js
 ### Others
 Firebase, Chart.js, Heroku
 
-##
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maycwu&show_icons=true&locale=en" alt="maycwu" /></p>
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maycwu&" alt="maycwu" /></p>
-
