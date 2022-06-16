@@ -20,7 +20,7 @@
 
 ### Frontend:
 
-Javascript, HTML, CSS, React, React Hooks, Redux, Bootstrap, Material UI
+Javascript, HTML, CSS, React, React Hooks, Redux, Bootstrap, Material UI, Tailwind CSS, Framer Motion
 
 ### Backend:
 
