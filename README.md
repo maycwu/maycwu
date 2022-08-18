@@ -10,19 +10,19 @@
 
 - ⚡ Fun facts: I lived in South America for 10 years before moving back to the US. I also love to draw, snowboard, exercise and hike!
 </p>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3>Connect with me:</h3>
+<p>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/maywu95/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maywu95/" height="30" width="40" /></a>
 </p>
 
 ## 💻 Languages and Tools
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maycwu&show_icons=true&locale=en&layout=compact" alt="maycwu" />
 
-### Frontend:
+### Front-end:
 
 Javascript, TypeScript, HTML, CSS, React, React Hooks, Redux, Bootstrap, Material UI, Tailwind CSS, Framer Motion
 
-### Backend:
+### Back-end:
 
 Node.js, PostgreSQL, Sequelize, Express.js
 
