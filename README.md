@@ -2,8 +2,6 @@
 <h1>Hi 👋, I'm May</h1>
 <h3>I'm a Full Stack Software Engineer from NYC</h3>
 
-- 🌱 I’m currently learning: data structures, algorithms and front-end frameworks.
-
 - 👨‍💻 All of my projects are available at: **[https://may-wu.netlify.app/](https://may-wu.netlify.app/)**
 
 - 📫 How to reach me: **maychangwu@gmail.com**
