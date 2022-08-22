@@ -1,6 +1,6 @@
 
 <h1>Hi 👋, I'm May</h1>
-<h3>I'm a Full Stack Software Engineer from NYC</h3>
+<h3>I'm a Full Stack Software Engineer</h3>
 
 - 👨‍💻 All of my projects are available at: **[https://may-wu.netlify.app/](https://may-wu.netlify.app/)**
 
