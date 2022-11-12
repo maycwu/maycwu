@@ -6,8 +6,6 @@
 
 - 📫 How to reach me: **maychangwu@gmail.com**
 
-- ⚡ Fun facts: I lived in South America for 10 years before moving back to the US. One of my goals is to visit every U.S national park. My hobbies are drawing, snowboarding, exercising and hiking. 
-
 ## 💻 Languages and Tools
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maycwu&show_icons=true&locale=en&layout=compact" alt="maycwu" />
 
